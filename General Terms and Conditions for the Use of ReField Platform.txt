@@ -1,0 +1,458 @@
+Dany Oliveira Unipessoal (hereinafter, ReField), a company under portuguese law, with office at Rua de Fatima,124 / 2420-063 Leiria, Portugal is a forward-thinking company for professional scouting and players analysis, associated with a networking ability. Providing his data through ReField Platform, a digital platform which can be used for scouting management and to purchase ReField services (hereinafter, Service), which can be consulted at http://refield.app/
+
+(On the one side)
+
+and
+
+The user of ReField Platform (hereinafter, Customer) is an operator in the football business area and using ReField Platform for professional purposes (such as, by way of example, scouting, tutorial and intermediation activities)
+
+(On the other side)
+
+ReField and the Customer collectively referred as "the Parties"
+
+Parties are interested in entering into this agreement in order to allow the Customer to use ReField Platform.
+
+Now therefore, in consideration of the mutual covenants and agreements contained herein, the Parties hereto agree as follow:
+
+1. Contract
+1.1
+This contract (hereinafter Contract) is undersigned between ReField Platform (hereinafter, ReField Platform) and the Customer, whose data and general information were registered by the Customer in ReField Platform. This contract governs the access to and non-exclusive use of some or all of the tools available at restricted areas of ReField Platform and the supply of other services by ReField Platform, which are managed and delivered by ReField Platform or through its agents, dealers and third parties authorised by the same contractors.
+
+
+1.2
+This contract shall apply to any and all contracts stipulated between ReField Platform and the Customer, unless otherwise agreed in writing with ReField Platform.
+
+
+1.3
+The Customer may purchase a wide variety of Services (such as, by way of example, "Scout You" and "Find Me"), made available through ReField Platform. In which case, the provisions of this Contract shall apply to all Services without the need to sign each individual or distinct contract.
+
+
+1.4
+This Contract comprises the “General Terms and Conditions for the Use of ReField Platform” (hereinafter, General Terms). The Contract shall be deemed concluded when the Customer settles the Consideration (as defined below) and accepts the General Terms of this Contract by ticking the box on the ReField Platform. The non-payment of the Consideration, where due to ReField Platform, shall be considered as a cause of failure to complete the Contract.
+
+
+2. Supply of the Service
+2.1
+The Service is provided on an ongoing basis every day of the week, 24 hours a day, except when the service is suspended due to technical problems and/or maintenance set by article 2.6 below.
+
+
+2.2
+ReField Platform shall provide the Customer with a username and password (hereinafter Login Credentials). The unlawful use of the Login Credentials and/or their use by third parties other than the Customer are the sole responsibility of the Customer in order to protect ReField Platform from any direct or indirect damage the latter is likely to suffer, as a result of illegal use of the Login Credentials. In case of loss and/or failure to remember the Login Credentials, the Customer may request new Login Credentials through ReField Platform to replace the previous ones. The use of the Login Credentials shall not be allowed by Customer to any third party without the prior written communication to ReField Platform at the following e-mail address: info@refield.app.
+
+
+2.3
+ReField Platform requires the Customer to provide specific information about him/herself, his/her company, corporation, c or profession in order to use ReField Platform. The Customer undertakes to provide true, accurate and complete information and to refrain from falsely representing affiliation with any person or entity. The Customer should always ensure the email address provided to ReField Platform remains active or alternatively inform ReField Platform of any new, active email address where notices may be sent.
+
+
+2.4
+The Customer may update or correct at any time the personal information disclosed to ReField Platform. To correct or update the personal information, it is necessary to request it to the following e-mail address: info@refield.app The Customer is responsible for the truthfulness and accuracy of the provided personal data and ReField Platform shall not take any responsibility in this regard.
+
+
+2.5
+ReField Platform reserves the right to invite the Customer, or its employees or collaborators, to meetings, conferences and forums organised by ReField Platform itself.
+
+
+2.6
+ReField Platform may suspend the Service or the access to the restricted area of ReField Platform in case of system maintenance which would otherwise not be possible. In this case, however, ReField Platform shall provide the Customer with written notice by email in advance. The Service supply or access to the restricted ReField Platform areas will be restored in the time set on the e-mail notice, except in cases of majeure force.
+
+
+3. Conduct of the Customer – User Created Content
+3.1
+The Customer’s right to use the Service and ReField Platform is personal, so in case of a club / football organisation purchased access multiple Login Credentials shall be provided to the Customer.
+
+
+3.2
+ReField Platform may immediately cancel and/or suspend the Customer’s Login Credentials and block access to ReField Platform, and supply, in whole or in part, of the Service if ReField Platform detects any unauthorised use of Login Credentials and/or any use of ReField Platform that is unauthorised or performed by unauthorised people.
+
+
+3.3
+It is strictly prohibited for the Customer to assign, transfer and/or otherwise license and/or charge others to use the Service and/or access ReField Platform.
+
+
+3.4
+With regard to the features available on ReField Platform, the following shall apply:
+
+
+a)
+Customers are allowed to upload data, reports and other materials (such as, by way of example, notes and commentaries), the User Created Content, into ReField Platform, within the limitations set forth in this contract.
+
+
+b)
+Customers who upload User Created Content on ReField Platform can control if and how their User Created Content is shared into members of his Network.
+
+
+c)
+Should the Customer upload reports in which appear minors having less than 18 (eighteen) years of age, the Customer declares to have obtained and at any time maintain an authorization, waiver and/or other documentation related thereto, signed by the person who exercises the parental authority on such minors; ReField Platform expressly reserves the right to ask the Customer to provide such authorization, waiver and/or other documentation.
+
+
+3.5
+Using ReField Platform, and with specific regard to User Created Content, each Customer is solely responsible for the User Created Content uploaded by him/it/her, and undertakes not to upload or otherwise publish through ReField Platform any of the following:
+User Created Content that is unlawful, defamatory, offensive, obscene, indecent, vulgar, sexually explicit, harassing, threatening, invasive of privacy or publicity rights, abusive or otherwise objectionable;
+User Created Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law;
+User Created Content that describes, references, or otherwise communicates violent, dangerous, illegal, and/or criminal acts;
+User Created Content that describes, references, or otherwise communicates hate or discrimination concerning gender, sexual orientation, race, religion, or nationality;
+User Created Content that is harmful to, or degrades the goodwill associated with the trademark(s) or name(s) of ReField Platform;
+User Created Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any third party;
+Private information of any third party, including without limitation addresses, phone numbers, e-mail addresses and credit card numbers;
+Viruses, corrupted data or other harmful, disruptive or destructive files;
+User Created Content that, in the sole judgment of ReField Platform, is objectionable or which restricts or inhibits any other person from using or enjoying ReField Platform or which may expose ReField Platform and/or ReField Platform users to any harm or liability of any type.
+
+3.6
+Any use of ReField Platform in violation of the foregoing rules violates the Contract and may result in, among other things, termination or suspension of any Customer’s rights to use ReField Platform.
+
+
+3.7
+Each Customer remains solely responsible for all User Created Content uploaded on ReField Platform. ReField does not take any responsibility nor liability for any User Created Content uploaded by the Customer or any third party and/or for any loss or damage thereto.
+
+
+3.8
+As a provider of Interactive Services, ReField is not liable for any statement, representation or User Created Content provided by its Customers on ReField Platform.
+
+
+3.9
+Although ReField does not routinely review User Created Content and has no obligation to review, screen, edit or monitor any of the User Created Content uploaded on the ReField Platform, ReField reserves the right, and has absolute discretion, to review, remove, reject and screen User Created Content uploaded on ReField Platform at any time and for any reason without prior notice, and each Customer is solely responsible for creating backup copies of and replacing any User Created Content uploaded on ReField Platform at his/her sole costs and expenses.
+
+
+3.10
+ReField reserves the right, at its sole discretion, to determine whether and what action to take in response to particular UserCreated Content, and any action or inaction in a particular instance shall not dictate or limit ReField’s response with respect to other Created Content.
+
+
+3.11
+Each Customer represents and warrants that:
+
+
+a)
+he/she/it owns and controls all of the rights related to the User Created Content uploaded or he/she/it otherwise has all necessary rights to upload such User Created Content on ReField Platform.
+
+
+b)
+the User Created Content uploaded does not violate these General Terms or any applicable laws, rules or regulations, and will not violate any rights of or cause damages to any person or entity.
+
+
+3.12.
+Customers who upload User Created Content on ReField Platform agree to grant ReField license to publish, display, perform and distribute content that may relate with the User Created Content, being ReField strictly forbidden of use and sub-license such User Created Content throughout the world in any form or media.
+
+
+3.13.
+With reference to the article 3.11 above, whenever the Customer uploads on the Platform User Created Content, he/she is obliged to inform ReField and to sign the Data agreement as per article 28 of the General Data Protection Regulation (679/2016- GDPR).
+
+
+4. Subscription Plans
+4.1
+ReField offers different types of services depending on the functions available at ReField Platform. On any of the services a unitary credit represents 1 (one) EUR (euro).
+
+
+4.2
+The value of ReField Services are different depending on the subscription plan the Customer subscribes (see 5.5)
+
+
+4.3
+The subscription of one of the available subscription plans is needed on the registration process on ReField Platform and sets the price for ReField Services as well as the loyalty period.
+
+
+4.4
+ReField Platform is a credit based platform, requiring the use of credits to perform some of the actions, such as Find Me and Scout You, and constantly showing the amount of available credits.
+
+
+4.5
+Two different kinds of packages are available in order to top-up the amount of available credits on ReField Platform, being the required value in EUR (euros) required to purchase the packages available on ReField Platform at the time of the purchase. Nevertheless, on the first ReField Platform usage the customer is required to purchase a previously defined amount of credits to be accepted in ReField Platform, being the amount set by ReField and communicated to the Customers after a project evaluation and before the first package purchase on ReField Platform.
+
+
+4.5.1
+750 (seven hundred and fifty) credits
+
+
+4.5.2
+250 (seven hundred and fifty) credits
+
+
+4.6
+All the customers may purchase any of the two available packages at any time, being the credits added to ReField Platform and the amount specified on ReField Platform is billed to the client at the end of each month.
+
+
+4.7
+Credits on ReField Platform shall only be used on ReField Platform and once purchased are not refundable at any circumstance.
+
+
+5. ReField Services
+5.1
+ReField provides several services to the Customer through ReField Platform and it is Customer responsibility to choose any of them, none of them being mandatory to use ReField Platform.
+
+
+5.2
+To each ReField Service, a specific amount of Credits is due to ReField at the moment of the subscription and its value is presented on ReField Platform on that moment. The Customer shall have the necessary amount of Credits in order to be able to subscribe the requested Service.
+
+
+5.3
+If the amount of Credits needed to subscribe ReField Service is not available, Customers may get more Credits on ReField Platform by using the same payment method as the one used to pay Consideration.
+
+
+5.4
+The cost of each service depends on the type of subscription the Customs hold, depending if the customer has a monthly charged subscription plan or not.
+
+
+5.5
+ReField services are divided into the following categories and credits criteria:
+
+
+5.5.1
+Scout You
+
+
+5.5.1.1
+Scout You provides a short or full scouting report on a specific player, submitted by the Customer on ReField Platform and it is billed as presented on ReField Platform in the moment of purchase.
+
+
+5.5.2
+Find Me
+
+
+5.5.2.1
+Find Me provides a service of players identification, who will match the customer's provided search criteria and it is billed as presented on ReField Platform in the moment of purchase.
+
+
+5.5.3
+Games
+
+
+5.5.3.1
+Games provides a player’s analysis on a specified game and and it is billed as presented on ReField Platform in the moment of purchase.
+
+
+5.5.4
+ProActive
+
+
+5.5.4.1
+Proactive is a ReField Service supplied to Customers and it provides a short scouting report of a player that was previously identified by ReField. Customers will be offered a short description of the players profile and may or may not choose to action it. Proactive ReField Service Games provides a player’s analysis on a specified game and it is billed as presented on ReField Platform in the moment of purchase.
+
+
+6. Customer Service
+6.1
+ReField provides the Customer with after-sales support via telephone or e-mail at no additional cost. Assistance is provided for technical enquiries concerning the use of ReField Platform and/or the Service or administrative information relating to payments or billing (hereinafter Support Activities).
+
+
+7. Network
+7.1
+ReField Platform allows the Customer to set a Network of its own, being the Customer responsible for all the data transferred to his network members (hereinafter Networkers). ReField shall not be responsible for any eventual losses or damages suffered by the Customer or the Networkers.
+
+
+7.2
+Customers may add members to his Network using the invitation process (hereinafter Invitation Process) available on ReField Platform.
+
+
+7.3
+Network members are considered third parties to this Contract and all the conditions set for thirds parties are applied to the Customer Network members.
+
+
+7.4
+Invitation Process requires the Customer to supply ReField with data, which will allow ReField to identify and contact the companies/individuals invited by the Customer to his/her/its network (hereinafter Prospects). Customer guarantees that Prospects have been previously contacted and that Prospects are aware of this process, having guaranteed Prospect’s authorization to supply his personal data to ReField.
+
+
+7.5
+ReField is allowed to contact the Prospects, using the information supplied by the Customer, to complete the Invitation Process and for any other contact ReField finds suitable (such as commercial purposes).
+
+
+7.6
+Prospects are required to take notice, read and fully understand all the information on the General Terms and Conditions for the use of ReField Platform in order to enter the Customers network, being supplied with Login Credential after the Invitation Process is concluded successfully.
+
+
+8. Amount, Method of Payment, Customer Loyalty, Payment Plan and Invoicing
+8.1
+The Customer shall pay ReField the amount in Euros specified in ReField Platform for each Package selected by the Customer (the Consideration). The Consideration is exclusive of VAT as prescribed by law, if applicable. Payment of the Consideration shall occur in accordance with the method and timeframe set on the registration process.
+
+
+8.2
+Monthly Billed Subscription Plans have a loyalty period of 365 (three hundred and sixty five) days, which shall be considered since the signing of the Contract. During this period of time, the Customer is obligated to pay ReField the Consideration, not being able to terminate the contract under any circumstance. This Contract is automatically renewed for the minimum renewal period, set as 3 (three) months, at the end of each loyalty period (the first being 365 (three hundred and sixty five) days), and both parties may cancel this renewal by notifying the other party with one month prior notice.
+
+
+8.3
+It is the sole responsibility of the Customer to provide written notice to ReField of any updating of the information or changes regarding the chosen Method of Payment and/or Subscription Plan
+
+
+8.4
+ReField shall send the Customer the relative invoice in electronic format to the contact details provided by the Customer, in order for the customer to pay on a maximum time period of 30 (thirty) days.
+
+
+8.5
+Any revision of the Consideration should be agreed in writing between Parties.
+
+
+9. Industrial Property Rights of ReField
+9.1
+The Customer agrees and acknowledges that the ReField Platform and any software used to provide the Service and the management of ReField Platform (the Software) are owned by ReField. The Software contains confidential information protected by applicable laws on copyright, trade secrets and other intellectual property rights (Protected Materials). Reproduction, distribution or transmission of the Software and the Protected Materials without the prior and express written consent of ReField is prohibited.
+
+
+9.2
+Any reproduction, modification, creation of derivative works, redistribution or retransmission of the Software is expressly prohibited and will result in severe civil and criminal penalties.
+
+
+9.3
+Without prejudice to the above, the copying or reproduction of the Software to any other server or location for further reproduction or redistribution is strictly prohibited. The Customer may not decompile or disassemble, perform reverse engineering or otherwise attempt to ascertain any source code contained in any software provided by ReField in execution of this Contract.
+
+
+10. Trademarks and Distinguishing Signs of the Customer / ReField Platform
+10.1
+The Customer hereby authorises ReField to use trademarks and distinguishing signs (hereinafter Trademarks) of the Customer to be published on the ReField website. The Customer’s Trademarks may remain on the ReField website after the termination of this Contract. To this end, the Customer grants ReField a license that is free, perpetual, non-exclusive, and irrevocable and which prohibits sub-license, in order to publish the Trademarks on its website. ReField is not obligated in any way to verify the updated design of the Trademarks.
+
+
+10.2
+Certain content on ReField Platform is provided by third parties, so any re-publication or re-distribution of that content is strictly forbidden without the prior consent of the right holders. ReField Platform does not own any of the copyright on such elements as logos, graphics or button icons, as example, and uses them under the fair use agreement.
+
+
+11. Disclaimer
+11.1
+The Customer understands and expressly agrees that:
+
+
+a) ReField shall not provide any guarantee that the Service and/or ReField Platform will meet the expectations and needs of the Customer;
+
+
+b) Any information, material or other content downloaded or otherwise obtained through the use of the Service and/or ReField Platform is made at the sole discretion and risk of the Customer and that the Customer shall be solely responsible for any damage caused to its computer systems or those of third parties or for loss of data resulting from the downloading of Software or other Copyrighted Material or other content through ReField Platform.
+
+
+11.2
+ReField is not responsible for the contents, information and details, published in the website and /or ReField Platform, correctness, update and completeness thereof. ReField, its directors, employees and agents, shall not be liable for any, whether direct or indirect, damage or injury of any kind, whatever their cause, origin, nature or consequences, resulting from the access to, or inability to access, the Website, nor from the reliance on any information provided on or via the Website.
+
+
+12. Disclaimer
+12.1
+Except in cases of fraud or gross negligence, ReField’s liability to the Customer arising from, or related to, this Contract shall not exceed the amount that the Customer pays ReField under this Contract during the 365 (three hundred and sixty five) days preceding the date on which the case began, or during the months prior to use of the Service, in the event of the Service being provided for less than 365 (three hundred and sixty five) days. Neither ReField or its agents, licensors and contracting third parties are or shall be responsible for User Created Content or other data of the Customer connected with the Service in any way, or for the Customer’s website or any hardware or software of the Customer or its suppliers. It is the responsibility of the Customer to take the necessary steps to use the Service with its own operating system (hardware and software) and maintain the proper working of the same for the purpose of providing the Service.
+
+
+13. Customer Declarations, Guarantees and Additional Agreements
+13.1
+ReField Platform and Service may be used exclusively by individuals or legal entities acting for professional purposes (such as, by way of example, scouting and educational). To this end, the Customer declares and guarantees him/herself to be a professional or to use ReField Platform and Service for corporate purposes.
+
+
+13.2
+The Customer declares, guarantees and undertakes that he/she:
+
+
+a) has the power and authority to enter into this Contract;
+
+
+b) is at least 18 (eighteen) years of age;
+
+
+c) shall access the restricted area of ReField Platform and use the Service solely only in accordance with this Contract.
+
+
+13.3
+The Customer undertakes to comply with all laws, regulations, articles of association and decisions applicable to his/her company, corporation or profession for the entire duration of the Contract; such compliance is necessary or desirable in order to proceed with the signing and execution of this Contract.
+
+
+13.4
+ReField reserves the right to revise or amend this Contract from time to time. Any revisions to this Contract shall be communicated to the Customer by written notice sent to the Customer with reasonable notice, though no less than 10 (ten) days prior to the entry into force of any amendment to the Contract. If the Customer does not wish to adhere to the amendments made, he/she may terminate the Contract by informing ReField with written notice, by letter or to the e-mail address: info@refield.app.
+
+
+14. Duration of the Contract
+14.1
+This Contract shall be indefinite, except for the monthly billed subscription plan, which has a minimum loyalty period of 365 (three hundred and sixty five) days. In case of failure to send notice of cancellation, this Contract shall continue in effect between the Parties and the amount of the Consideration determined at the initial signing of the Contract, including any adjustments due to relative Increases, shall be made payable to ReField at the timing set out by the Payment Plan, through the Method of Payment determined at the initial signing of the Contract. In the event of an unsuccessful debit transaction for the Consideration (even due to technical reasons), or at the moment in which the advance monthly instalments paid by the Customer end, ReField shall send a communication advising the Customer of failure to pay; ReField will proceed to reprocess the same payment 10 calendar days after such communication. In the event that any further attempt of payment is also unsuccessful, at the sole discretion of ReField, the Service will be suspended, Login Credentials will be deactivated and a written notice will be sent to the Customer requesting him/her to check the accuracy of the information and procedures for the payments of the Consideration in accordance with the method of payment selected by the Customer.
+
+
+14.2
+In all cases of termination made by ReField under breaking any of the terms on this Contract, ReField will only refund the unused part of the Consideration paid in advance and related to a part of the services not used by the Customer because of the early termination of this Contract. Notwithstanding of the above the refund shall not prejudice any right of indemnity for any damages or costs suffered or borne by ReField arising from facts, acts and/or behaviour of the Customer.
+
+
+14.2
+Each Party has the right to terminate the Contract with 1 (one) month prior notice before the last of the 365 (three hundred and sixty five) days loyalty period set in this Contract. Customers are required to inform ReField by letter or e-mail to info@refield.app. Cancellation shall take effect at the end of the month after the information is present by one party to the other and will result in the disabling of Login Credentials specified in the notice of cancellation. In all cases of cancellation made by the Customer, no monies will be due to the Customer by way of reimbursement or otherwise.
+
+
+15. Consequence of Termination of The Contract and Survival of Certain Clauses
+15.1
+In the event of termination of the Contract, ReField will disable the Login Credentials to the Platform and suspend the Service with effect from the effective date of termination/cancellation/withdrawal, for any reason occurred.
+
+
+15.2
+In the event of termination of the Contract, ReField will disable the Login Credentials to ReField Platform and suspend supply of the Service simultaneously sending the Customer notice of termination.
+
+
+15.3
+In the event of termination of the Contract the following provisions shall remain valid and binding to the Customer:
+
+
+(i) Article 9 (Industrial Property Rights of ReField);
+
+
+(ii) Article 10 (Trademarks and Distinguishing Signs of the Customer);
+
+
+(iii) Article 20 (Confidentiality);
+
+
+(iv) Article 21 (Governing Law and Jurisdiction)
+
+
+16. Assignment of Contract
+16.1
+The Customer may not assign this Contract to any third party without the prior written consent of ReField, under penalty of the immediate termination of this Contract due to the negligence of the Customer and damages.
+
+
+16.2
+The Customer may not sublicense and/or otherwise transfer to third parties the use of Login Credentials or the use of the Service or access to ReField Platform, under penalty of the immediate termination of this Contract due to the negligence of the Customer and damages.
+
+
+16.3
+ReField has the right to transfer this Contract to others, in whole or in part, and the rights and obligations arising from the same, informing the Customer on this procedure.
+
+
+17. Data Protection Security
+17.1
+ReField shall use reasonable physical, electronic and procedural safeguards to protect against data loss, misuse and alteration, of any personal data received by ReField from the Customer.
+
+
+17.2
+Any information provided by the Customer at the time of drafting of the Contract or any other information provided by the Customer concerning his/her company or profession (Customer Data) is subject to the ReField Privacy Policy. ReField reserves the right to update or modify the Privacy Policy from time to time at its sole discretion.
+
+
+17.3
+The Customer states that he/she has received information from ReField regarding the processing of personal data required by Article 13 of the General Data Protection Regulation (679/2016- GDPR).
+
+
+18. Communications and Notices
+18.1
+Statements, notices and other communications to the Customer may be made by e-mail, publication on ReField Platform or by any other reasonable means. The Customer shall be solely responsible for the updating of his/her postal address and registered email account. ReField shall not be responsible for undelivered notices due to the Customer’s failure to update his/her account information.
+
+
+19. Miscellaneous
+19.1
+If any provision of this Contract is held invalid or unenforceable, such provision will be considered null and void while the remaining provisions will remain in full force and effect.
+
+
+19.2
+The failure of ReField to exercise or enforce any right or provisions hereof shall not in any way constitute a waiver of such right or provision.
+
+
+19.3
+This Contract expresses the entire understanding and agreement between ReField and the Customer pertaining to the subject matter thereof.
+
+
+19.4
+Section headings are provided for ease of reading and have no legal or contractual effect.
+
+
+19.5
+Each party acts independently and is not an agent or representative of any other party.
+
+
+19.6
+No party has the right or authority to create obligations or give representations or guarantees in the name and on behalf of another party. This Contract may not be interpreted or construed to create an association or joint venture between the parties or to impose any obligation or liability of a partnership to one of them. The parties acknowledge and agree that this Contract may be terminated electronically without the need for written signatures.
+
+
+19.7
+The Customer expressly declares that he/she has read and fully understood this Contract, and that he/she accepts all its terms and conditions. The Customer has independently evaluated all aspects of this Contract and the opportunity to adhere to them. The Customer declares that he/she does not rely on any representation, guarantee or statement by ReField and/or third parties that is not expressly considered in this Contract.
+
+
+20. Confidentiality
+20.1
+All the information which the Customer becomes aware of during the execution of this Contract concerning, for example, the organisation, business and activity of ReField, as well as information regarding ReField Platform and/or Software or any other information acquired by the Customer under this Contract, is entirely confidential and must not be communicated or disclosed, either directly or indirectly, to third parties.
+
+
+21. Governing Law and Jurisdiction
+21.1
+This Contract is governed by Portuguese law.
+
+
+21.2
+Any dispute arising between the parties concerning the interpretation, validity, efficacy and/or execution of the Contract shall be settled amicably between them, and if this is not possible, shall refer exclusively to Portuguese Law.
